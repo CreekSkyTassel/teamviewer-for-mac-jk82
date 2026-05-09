@@ -1,4 +1,4 @@
-
+Enhance CrossOver for macOS with updated CrossOver for macOS Module | drag-and-drop-support + cross-platform-support, the #1 module. Includes drag-and-drop-support and
 
 
 
